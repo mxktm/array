@@ -1,0 +1,30 @@
+#maintitle{
+  Font-size:100px;
+    color:red;
+    font-weight:bold; 
+  }
+  #subtitle{
+    Font-size:40px;
+    font-style:italic;
+    font-variant:small-caps;
+  }
+  #image1{
+     border-style:solid;
+    width:400px;
+    padding:2px;
+  }
+  
+  #button1{
+     border-style:solid;
+    color:red;
+    width:170px;
+    background-color:black;
+    padding:2px;
+    font-size:50px;
+    
+  }
+  
+  body{
+    background-color:yellow;
+    text-align:center;
+  }
